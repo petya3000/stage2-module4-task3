@@ -1,8 +1,7 @@
 package com.mjc.stage2.exception;
 
 public class HandlingException extends Exception {
-    public HandlingException() {
-    }
+    public HandlingException() {}
 
     public HandlingException(String message) {
         super(message);
